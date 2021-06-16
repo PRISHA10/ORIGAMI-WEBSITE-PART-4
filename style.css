@@ -1,0 +1,84 @@
+h1{
+    color: #ff4500;
+    border:solid #000000;
+    background-color: #ff0;
+    font-family: cursive;
+}
+
+   .GRID{
+   background-color: #9932cc;    
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+  
+   }
+
+
+   .content{
+    color: #000000;
+   display:wrap;
+   justify-content: space-between;
+   padding: 30px;
+   margin: 25px;
+   width: 310px;
+   font-size: 16px;
+   font-weight: 400;
+   font-family: cursive;
+
+    }
+.HEADER{
+ color: #ffa500;   
+ background-color: #9932cc;
+ padding: 15px;
+ font-size: 20px;
+font-family: cursive;
+font-weight: 400;
+}
+
+.ABOUTME{
+color: #afeeee;
+ background-color: #D87093; 
+padding: 30px;
+font-size: 30px;
+font-family: serif;
+font-weight: 400;
+}
+
+.info{
+ color: #0fffff;
+ background-color: #0000ff;   
+ padding: 30px;
+font-size: 30px;
+font-family: serif;
+font-weight: 400;
+
+}
+
+.china{
+color:#ff0000;
+background-color: #ff0;
+    padding: 30px;
+    font-size: 30px;
+    font-family: serif;
+    font-weight: 400 
+}
+
+.japan{
+    color: #98fb98;
+    background-color:#8b008b;
+    padding: 30px;
+    font-size: 30px;
+    font-family: serif;
+    font-weight: 400 
+       
+}
+
+a:link{
+color:#ffffff
+}
+a:visited{
+    color: #ffffff;
+}
+.content:hover{
+    transform: scale(1.2);
+}
